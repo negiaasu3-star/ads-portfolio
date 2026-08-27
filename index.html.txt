@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pawan Negi | Performance Marketer & Meta Ads Specialist</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body class="bg-gray-900 text-gray-100 font-sans">
+
+    <!-- Header / Navbar -->
+    <nav class="border-b border-gray-800 bg-gray-900/90 sticky top-0 backdrop-blur z-50 px-6 py-4 flex justify-between items-center max-w-6xl mx-auto">
+        <h1 class="text-xl font-bold tracking-wide text-blue-400">PAWAN NEGI</h1>
+        <div class="space-x-4">
+            <a href="https://wa.me/919105064530" target="_blank" class="bg-blue-600 hover:bg-blue-500 text-white px-4 py-2 rounded-lg font-medium transition text-sm">
+                <i class="fab font-bold fa-whatsapp mr-1"></i> Hire Me
+            </a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="max-w-4xl mx-auto text-center py-16 px-6">
+        <span class="bg-blue-900/50 text-blue-400 text-xs font-semibold px-3 py-1 rounded-full border border-blue-700">META ADS SPECIALIST</span>
+        <h1 class="text-4xl md:text-5xl font-extrabold mt-4 mb-6 leading-tight">
+            Data-Driven Meta Ads That Scale Businesses & Drive Leads
+        </h1>
+        <p class="text-gray-400 text-lg mb-8 max-w-2xl mx-auto">
+            मैं एक Performance Marketer हूँ। खुद के SMM बिजनेस के लिए <strong>₹5,400+ ad spend</strong> करके ultra-low CPL (<strong>₹7.35/Lead</strong>) और high engagement निकालने का व्यावहारिक अनुभव।
+        </p>
+        <div class="flex flex-wrap justify-center gap-4">
+            <a href="https://wa.me/919105064530" target="_blank" class="bg-emerald-600 hover:bg-emerald-500 text-white px-6 py-3 rounded-lg font-semibold transition">
+                WhatsApp Chat
+            </a>
+            <a href="mailto:digitalpawan34@gmail.com" class="border border-gray-700 hover:bg-gray-800 text-gray-300 px-6 py-3 rounded-lg font-semibold transition">
+                Send Email
+            </a>
+        </div>
+    </section>
+
+    <!-- Metrics Breakdown Section -->
+    <section class="max-w-6xl mx-auto px-6 py-10">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
+            <div class="bg-gray-800/50 p-6 rounded-xl border border-gray-700/50">
+                <h2 class="text-3xl font-extrabold text-emerald-400">₹7.35</h2>
+                <p class="text-xs text-gray-400 uppercase mt-1">Cost Per Lead (CPL)</p>
+            </div>
+            <div class="bg-gray-800/50 p-6 rounded-xl border border-gray-700/50">
+                <h2 class="text-3xl font-extrabold text-blue-400">₹0.04</h2>
+                <p class="text-xs text-gray-400 uppercase mt-1">Cost Per Engagement</p>
+            </div>
+            <div class="bg-gray-800/50 p-6 rounded-xl border border-gray-700/50">
+                <h2 class="text-3xl font-extrabold text-purple-400">100/100</h2>
+                <p class="text-xs text-gray-400 uppercase mt-1">Meta Opp. Score</p>
+            </div>
+            <div class="bg-gray-800/50 p-6 rounded-xl border border-gray-700/50">
+                <h2 class="text-3xl font-extrabold text-amber-400">₹5,400+</h2>
+                <p class="text-xs text-gray-400 uppercase mt-1">Self-Funded Ad Spend</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Case Study & Dashboard Proofs -->
+    <section class="max-w-6xl mx-auto px-6 py-12">
+        <h2 class="text-2xl font-bold mb-8 text-center">Verified Campaign Dashboards</h2>
+        <div class="grid md:grid-cols-2 gap-8">
+            <div class="bg-gray-800 p-4 rounded-xl border border-gray-700">
+                <img src="your-dashboard-1.jpg" alt="Meta Ads Manager Web" class="rounded-lg w-full h-auto mb-4">
+                <h3 class="font-semibold text-lg text-blue-400">Engagement Campaign</h3>
+                <p class="text-sm text-gray-400">Generated 35,000+ engagements at ultra-low cost of ₹0.04 to ₹0.07 per result.</p>
+            </div>
+            <div class="bg-gray-800 p-4 rounded-xl border border-gray-700">
+                <img src="your-dashboard-2.jpg" alt="Meta Ads Manager Mobile App" class="rounded-lg w-full h-auto mb-4">
+                <h3 class="font-semibold text-lg text-emerald-400">Messaging / Lead Gen Campaign</h3>
+                <p class="text-sm text-gray-400">Acquired 100+ direct client WhatsApp/DM conversations with an average CPL of ₹7.35.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section class="max-w-6xl mx-auto px-6 py-12">
+        <h2 class="text-2xl font-bold mb-8 text-center">My Core Services</h2>
+        <div class="grid md:grid-cols-3 gap-6">
+            <div class="bg-gray-800/40 p-6 rounded-xl border border-gray-700/50">
+                <i class="fas fa-bullseye text-blue-400 text-2xl mb-4"></i>
+                <h3 class="font-semibold text-lg mb-2">Campaign Setup & Research</h3>
+                <p class="text-sm text-gray-400">High-intent audience targeting and full end-to-end Facebook & Instagram ad setup.</p>
+            </div>
+            <div class="bg-gray-800/40 p-6 rounded-xl border border-gray-700/50">
+                <i class="fas fa-comments text-emerald-400 text-2xl mb-4"></i>
+                <h3 class="font-semibold text-lg mb-2">Lead Generation Ads</h3>
+                <p class="text-sm text-gray-400">WhatsApp and Instagram Messaging campaigns designed to bring direct business inquiries.</p>
+            </div>
+            <div class="bg-gray-800/40 p-6 rounded-xl border border-gray-700/50">
+                <i class="fas fa-tools text-amber-400 text-2xl mb-4"></i>
+                <h3 class="font-semibold text-lg mb-2">Ad Account Troubleshooting</h3>
+                <p class="text-sm text-gray-400">Handling policy restrictions, maintaining 100% account score, and resolving delivery issues.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer / Contact -->
+    <footer class="border-t border-gray-800 mt-12 py-10 px-6 text-center text-gray-400 text-sm">
+        <p class="mb-4">Connect with me for Performance Marketing opportunities:</p>
+        <div class="flex justify-center space-x-6 text-lg mb-6">
+            <a href="mailto:digitalpawan34@gmail.com" class="hover:text-white"><i class="fas fa-envelope"></i></a>
+            <a href="https://wa.me/919105064530" target="_blank" class="hover:text-emerald-400"><i class="fab fa-whatsapp"></i></a>
+            <a href="https://www.linkedin.com/in/pawan-negi-3a5535420" target="_blank" class="hover:text-blue-400"><i class="fab fa-linkedin"></i></a>
+            <a href="https://pawan-media-service.vercel.app/" target="_blank" class="hover:text-blue-400"><i class="fas fa-globe"></i></a>
+        </div>
+        <p>© 2026 Pawan Negi. Built for Vercel Deployment.</p>
+    </footer>
+
+</body>
+</html>
